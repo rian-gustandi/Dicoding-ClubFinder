@@ -1,6 +1,5 @@
 
 
-
 import '../component/club-list.js'
 import '../component/search-bar.js'
 import DataSource from '../data/data-source.js';
